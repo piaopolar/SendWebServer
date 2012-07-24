@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SendWebServer", "SendWebServer\SendWebServer.vcproj", "{FD5B4F1D-C58E-4779-B256-CF1930B0D184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD5B4F1D-C58E-4779-B256-CF1930B0D184}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD5B4F1D-C58E-4779-B256-CF1930B0D184}.Debug|Win32.Build.0 = Debug|Win32
+		{FD5B4F1D-C58E-4779-B256-CF1930B0D184}.Release|Win32.ActiveCfg = Release|Win32
+		{FD5B4F1D-C58E-4779-B256-CF1930B0D184}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
